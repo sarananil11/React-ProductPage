@@ -1,0 +1,10 @@
+.about-container{
+    text-align: justify;
+    border: 2px solid hsla(0, 0%, 25%, 0.226);
+    box-shadow: hsla(0, 0%, 50%, 0.473) 10px 12px 14px;
+}
+.about-heading{
+    text-align: center;
+    font-weight: 700;
+    color: hsl(240, 100%, 72%);
+}
